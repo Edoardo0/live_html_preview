@@ -1,3 +1,6 @@
+
+![Gif showing the automation in use](https://github.com/user-attachments/assets/ea315205-8a20-41ef-b682-4d244a6ecdbe)
+
 # Simple Python Live Reloader for front-end website development
 
 A lightweight, dependency-minimal Python script to automate browser refreshing during front-end web development. 
